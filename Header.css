@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+    margin-top: 10px;
+}
+.h_user{
+    padding: 30px;
+    font-size: large;
+    
+}
+.h_user:hover{
+    font-size: larger;
+}
+.h_close{
+    padding: 30px;
+    font-size: large;
+
+}
+.add{
+    padding: 50px;
+    font-size: large;
+    color: blue !important;
+}
+.rem{
+    padding: 50px;
+    font-size: large;
+    color: brown !important;
+}
+.wow{
+    color: black;
+}
+.lol{
+    display: flex;
+    margin: 35px;
+    justify-content: space-between;
+    align-items: center;
+}
+.ok{
+    padding-left: 300px;
+    padding-right: 300px;
+    align-items: center;
+}
+.acha{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+}
